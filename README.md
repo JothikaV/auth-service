@@ -117,7 +117,7 @@ Access Swagger documentation at:
 http://localhost:8082/auth/swagger-ui.html
 ```
 
-## Design Decisions & Assumptions
+## Design Decisions
 
 * Spring Boot with Spring Security for RBAC
 * JWT used for stateless authentication
